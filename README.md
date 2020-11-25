@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/https://github.com/27410/27410-2020-group-project-group5_oxalic-acid_a-niger.git/main)
 
 # 27410 - Group assignment - Group [Group Number] - [TITLE]
 
