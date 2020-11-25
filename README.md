@@ -16,7 +16,7 @@ Oxalic acid has been of industrial importance ever since, traditionally obtained
 
 As an organic acid, Oxalic acid can be considered as a low value chemical, meaning having an abundant and cheap feedstock as well as great fermentation metrics is key to compete with the existing chemical processes. Therefore, as a rule of thumb, a final product titer of minimum 100 g/L at the end of fermentation is desired, which has already been achieved in Aspergillus niger fermentations by some research groups. However, the productivity has to be increased to at least 5 g/L*h. Productivity has, as presented previously already, been significantly lower than the desired value. Finally, the yield YSP has to be improved closer to the maximum theoretical yield of 4 considering sucrose as substrate. Highest achieved yield compared to the maximum theoretical yield was 64,2 %.
 
-To achieve an economically favourable process, different substrates, gene knockouts, overexpression of genes and regulators should be investigated with an optimized Aspergillus niger iJB1325 model
+To achieve an economically favourable process, different substrates, gene knockouts, overexpression of genes and regulators should be investigated with an optimized Aspergillus niger iJB1325 model Genome-scale model for Aspergillus niger ATCC1015. Model file in SBML level 3 version 1.
 
 ## Project overview
 Describe how your project is organized ...
