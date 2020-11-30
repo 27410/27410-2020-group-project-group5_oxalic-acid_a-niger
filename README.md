@@ -3,7 +3,7 @@
 # 27410 - Group assignment - Group [5] - [Oxalic acid production with A.niger]
 
 
-## Project summary (<300 words)
+## Project summary
 This project evaluates engineering strategies for Aspergillus niger as production host for oxalic acid production. Oxalic acid has been of industrial importance ever since, traditionally obtained through chemical synthesis. However, the chemical synthesis affords the use of harsh chemicals like sulphuric acid and high temperatures up to 360 °C leading to a high energy consumption. Biological production of oxalic acid could provide a sustainable alternative with the possibility of using waste products as substrate. However, major drawbacks are low yields and low productivity, mainly due the oxidation of glucose and loss of energy in unfavorable pathways.
 
 As an organic acid, oxalic acid can be considered as a low value chemical, meaning having an abundant and cheap feedstock as well as great fermentation metrics is key to compete with the existing chemical processes. Therefore, the aim for this project was to achieve a final product titer of minimum 100 g/L, a productivity of at least 5 g/L*h and a yield Y¬¬SP closer to the maximum theoretical yield of 4 considering sucrose as substrate.
@@ -12,5 +12,7 @@ To achieve the desired fermentation metrics, different substrates (Glucose, Sucr
 
 
 ## Project overview
-Describe how your project is organized ...
+00_Report - Main Notebook describing our findings
+01_Memote report - Evaluation of the used model
+02_...
 
