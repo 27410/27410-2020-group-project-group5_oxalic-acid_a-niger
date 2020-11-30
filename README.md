@@ -12,7 +12,7 @@ To achieve the desired fermentation metrics, different substrates (Glucose, Sucr
 
 
 ## Project overview
-00_Report - Main Notebook describing our findings
-01_Memote report - Evaluation of the used model
-02_...
+1. 00_Report - Main Notebook describing our findings
+2. 01_Memote report - Evaluation of the used model
+3. 02_...
 
