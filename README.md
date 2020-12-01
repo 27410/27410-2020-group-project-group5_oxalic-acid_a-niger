@@ -22,7 +22,7 @@ The main project can be read in 00_Report_Final.ipynb notebook. This notebook co
 
 Important files containing the designed code are linked to the main report for the Computer-Aided Cell Factory Engineering:
 
-1. Maximum theoretical yields and Medium Characterization - 2_Yield calculations CORRECT.ipynb
+1. Maximum theoretical yields and Medium Characterization - 02_Yield calculations CORRECT.ipynb
 2. Flux analysis - 03_1_LactoseGrowthFlux.ipynb, 03_1_SucroseGrowthFlux.ipynb and 03_GlucoseGrowthFlux.ipynb
 3. Knockouts - 04_1_Oxaloacetate acetylhydrolase (r51) mutation.ipynb and 04_Knockouts.ipynb
 4. Phenotypic phas plane - 05_Phenotypic phas plane.ipynb
